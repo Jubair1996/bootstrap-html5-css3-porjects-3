@@ -1,0 +1,18 @@
+.font-family-heading{
+    font-family: 'EB Garamond', serif;
+}
+.font-family-p{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-img{
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 100vh;
+}
+.bg-color{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+.contact{
+    background-color: #F3F3F3;
+}
